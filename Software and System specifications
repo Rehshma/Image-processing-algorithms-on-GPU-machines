@@ -1,0 +1,11 @@
+Software used
+CUDA 7.0 Toolkit, Microsoft Visual Studio 2010
+System Specifications
+1. Primary system used
+GPU: NVIDIA GeForce 820M –4 Multiprocessors
+CPU: Core i5 –6700HQ @ 2.60 GHz
+OS: Windows 8.1, 64 bit
+2. Additional system used
+GPU: NVIDIA GeForce gt740m –2 Multiprocessors
+CPU: Intel Core i7-4500U @ 2.40 GHz
+OS: Linux, 64 bit
